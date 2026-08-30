@@ -65,7 +65,6 @@ Demonstrated extremely high-speed optical data transmission from a small satelli
 
 **Deep Space Optical Communications** — tested laser communication across deep space using NASA's **Psyche spacecraft**.
 
-'''
 ---
 ##  The Challenge
 
@@ -78,10 +77,6 @@ Plus, clouds and Earth's atmosphere ☁️ can interfere with signals reaching g
 ---
 
 ##  The Future
-
-FSO could help connect:
-
-# 🌍 → 🌕 → 🔴 → 🌌
 
 **Earth → Moon → Mars → Deep Space**
 
