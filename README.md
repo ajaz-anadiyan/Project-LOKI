@@ -41,9 +41,7 @@ Visitors can interact with the project using two different modes:
 * Demonstrates that optical links can handle high-bandwidth digital data streams.
 
 ### 🖼️ Expo Setup Layout
-*(Paste a photo or diagram of your physical booth setup below)*
-
-![Top view](Demonstration/Top-view.png)
+![Top view](<./Demonstration/Top view.png>)
 
 ---
 
