@@ -1,7 +1,7 @@
 # Project-LOKI
 <div align="center">
 
-# 🚀 FREE-SPACE OPTICAL COMMUNICATION
+#  FREE-SPACE OPTICAL COMMUNICATION
 
 ### *How NASA Uses Lasers to Communicate Through Space* 🌌
 
@@ -11,7 +11,7 @@
 
 ---
 
-> ### 🔴 **What if the internet between planets travelled using light?**
+> ###  **What if the internet between planets travelled using light?**
 
 </div>
 
@@ -19,7 +19,7 @@
 
 **Free-Space Optical Communication (FSO)** uses **laser beams 🔴** to send information through open space.
 
-Instead of using only traditional **radio waves 📻**, NASA can use highly focused beams of light to send huge amounts of data between spacecraft and Earth.
+Instead of using only traditional **radio waves**, NASA can use highly focused beams of light to send huge amounts of data between spacecraft and Earth.
 
 ```text
 🛰️ SPACECRAFT
@@ -34,20 +34,20 @@ Instead of using only traditional **radio waves 📻**, NASA can use highly focu
 
 ---
 
-## ⚡ Why is it so cool?
+##  how is it different 
 
 | 📻 Traditional Radio | 🔴 FSO / Laser           |
 | -------------------- | ------------------------ |
 | Radio waves          | Laser light              |
-| Lower data capacity  | 🚀 Much higher potential |
-| Wider signals        | 🎯 Highly focused beams  |
+| Lower data capacity  |  Much higher potential |
+| Wider signals        |  Highly focused beams  |
 
 ### With FSO, NASA can send:
 
-📸 Better images
-🎥 More video data
-🔬 More scientific information
-🌌 Data across huge distances
+ Better images
+ More video data
+ More scientific information
+ Data across huge distances
 
 ---
 
@@ -72,7 +72,7 @@ Demonstrated extremely high-speed optical data transmission from a small satelli
 
 ---
 
-## ⚠️ The Challenge
+##  The Challenge
 
 Laser beams are incredibly narrow.
 
@@ -82,7 +82,7 @@ Plus, clouds and Earth's atmosphere ☁️ can interfere with signals reaching g
 
 ---
 
-## 🔮 The Future
+##  The Future
 
 FSO could help connect:
 
@@ -96,15 +96,15 @@ As space missions collect more data, laser communication could become a major pa
 
 <div align="center">
 
-# 🚀 THE FUTURE OF SPACE COMMUNICATION IS LIGHT 🔴
+#  THE FUTURE OF SPACE COMMUNICATION IS LIGHT 
 
-### **Explore • Communicate • Discover 🌌**
+### **Explore • Communicate • Discover **
 
 </div>
 
 ---
 
-### 📚 References
+###  References
 
 NASA — Optical Communications • LCRD • TBIRD • DSOC
 
