@@ -11,7 +11,7 @@ The project features **two identical transceiver stations**. Both stations can s
 * **Signal Conditioning:** Comparators turn weak photodiode light signals into sharp digital square waves.
 * **Logic-Level Control:** Low-power ESP32 pins safely switch a 5V laser using high-speed MOSFETs.
 * **Dual Demo Inputs:** Supports live voice from a microphone or digital MP3 file streaming.
-
+![Side view](<./Demonstration/Side view.png>)
 ---
 
 ## 🛠️ How It Works
