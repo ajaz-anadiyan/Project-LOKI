@@ -65,13 +65,8 @@ Demonstrated extremely high-speed optical data transmission from a small satelli
 
 **Deep Space Optical Communications** — tested laser communication across deep space using NASA's **Psyche spacecraft**.
 
-```text
-🛰️ ━━━━━━━━━ 🔴 ━━━━━━━━━ 🌍
-      LASER COMMUNICATION
-```
-
+'''
 ---
-
 ##  The Challenge
 
 Laser beams are incredibly narrow.
