@@ -78,8 +78,6 @@ Plus, clouds and Earth's atmosphere ☁️ can interfere with signals reaching g
 
 ##  The Future
 
-**Earth → Moon → Mars → Deep Space**
-
 As space missions collect more data, laser communication could become a major part of the future of space exploration.
 
 ---
