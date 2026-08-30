@@ -96,4 +96,3 @@ As space missions collect more data, laser communication could become a major pa
 
 NASA — Optical Communications • LCRD • TBIRD • DSOC
 
-> *Educational project based on NASA's space communication technologies.*
