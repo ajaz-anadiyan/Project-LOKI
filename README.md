@@ -47,8 +47,10 @@ Both stations use identical hardware:
 * **Laser Driver:** 1x N-Channel Logic-Level MOSFET (IRLZ44N)
 * **Receiver:** 1x BPW34 PIN Photodiode
 * **Signal Cleaner:** 1x Voltage Comparator (LM393)
-* **Audio Input:** 1x Microphone Module
-* **Audio Output:** 1x Audio Amplifier Module & 8Ω Speaker
+* **Audio Input:** 1x Microphone Module (INMP441 I2S)
+* **Audio Output:** 1x Audio Amplifier (MAX98357 I2S DAC) Module & 8Ω Speaker
+* **Power Source:** 2x LiON 18650 (2S)
+* **Extras:** 1x MP1584EN FIXED OUT 5V , capacitors, Resistors, Potentiometer (L 10k)
 
 ---
 
