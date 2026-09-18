@@ -51,7 +51,7 @@ Visitors can interact with the project using two different modes:
 Both stations use identical hardware:
 * **Brain:** 1x ESP32 Microcontroller
 * **Light Source:** 1x 5V Laser Diode
-* **Transistor:** 1x 2N2222
+* **MOSFET:** 1x ZVN2106
 * **Receiver:** 1x BPW34 PIN Photodiode
 * **Signal Cleaner:** 1x Voltage Comparator (LM311)
 * **Audio Input:** 1x Microphone Module (INMP441 I2S)
