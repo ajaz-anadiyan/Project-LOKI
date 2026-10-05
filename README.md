@@ -26,6 +26,9 @@ The project features **two identical transceiver stations**. Both stations can s
   <img alt="Project LOKI Schematic" src="Demonstration/schematics_light.svg">
 </picture>
 
+### 3D model (Fusion360)
+![3D model](<./hardware/3D model/3D model.png>)
+![3D model Side View](<./hardware/3D model/3D model Side View.png>)
 ---
 
 ## 🎧 Expo Demonstration Modes
